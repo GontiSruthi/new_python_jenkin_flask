@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 27 10:51:03 2021
-
+app.get('',())
+app.post('',())
+app.put('',())
 @author: GontiSruthi
 """
 
